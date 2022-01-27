@@ -1,0 +1,16 @@
+header {
+  background: #b3b3b3;
+}
+h1 {
+  color: #ffffff;
+  text-align: center;
+  text-transform: uppercase;
+}
+h2 {
+  color: #0000ff;
+  text-transform: uppercase;
+}
+section {
+  background: #666666;
+}
+
